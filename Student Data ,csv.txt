@@ -1,0 +1,21 @@
+Student_ID,Course_Name,Module_Completed,Score,Completion_Date,Time_Spent_Min,Feedback_Rating
+S1001,AI Basics,Module 1,80,2024-05-01,30,4
+S1002,Python,Module 2,90,2024-05-01,45,5
+S1001,AI Basics,Module 2,85,2024-05-03,40,4
+S1003,Data Science,Module 1,75,2024-05-02,50,3
+S1004,Python,Module 1,95,2024-05-02,35,5
+S1002,Python,Module 3,88,2024-05-04,60,4
+S1005,AI Basics,Module 1,70,2024-05-02,25,3
+S1003,Data Science,Module 2,82,2024-05-04,55,4
+S1006,Python,Module 1,85,2024-05-03,40,4
+S1004,Python,Module 2,92,2024-05-05,50,5
+S1001,AI Basics,Module 3,78,2024-05-06,45,4
+S1005,AI Basics,Module 2,65,2024-05-04,35,2
+S1007,Data Science,Module 1,88,2024-05-03,65,5
+S1006,Python,Module 2,78,2024-05-05,42,3
+S1003,Data Science,Module 3,91,2024-05-06,70,5
+S1002,Python,Module 1,92,2024-04-30,30,5
+S1007,Data Science,Module 2,84,2024-05-05,58,4
+S1008,AI Basics,Module 1,82,2024-05-04,32,4
+S1004,Python,Module 3,89,2024-05-07,55,4
+S1008,AI Basics,Module 2,74,2024-05-06,38,3
